@@ -1,6 +1,7 @@
 ## Compile
 Create a build folder, and run cmake and make in that folder
 ```
+mkdir build
 cd build
 cmake ..
 make
